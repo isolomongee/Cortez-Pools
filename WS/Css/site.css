@@ -1,0 +1,60 @@
+﻿body {
+}
+
+
+.bg-faded{
+    background-color:#565656;
+}
+
+.responsive-img{
+    max-width: 100%;
+    height: auto;
+  
+    background-size: 100% 100%;
+  
+}
+
+.banner_holder{
+    width: 100%;
+    height: 500px;
+    min-height: 200px;
+    position: relative;
+    outline:1px dotted red;
+}
+
+.banner_holderImage{
+    height: 100%;
+    position:relative;
+    background:   url("../imgs/quarter_wave.jpg")no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner_holderImage2{
+    height: 100%;
+    position:relative;
+    background:   url("../imgs/sunset.jpeg")no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner_holderImage3{
+    height: 100%;
+    position:relative;
+    background:   url("../imgs/coffee.jpeg")no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner_holderImage4{
+    height: 100%;
+    position:relative;
+    background:   url("../imgs/wood.jpeg")no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.callout.secondary{
+    background-color:#565656;
+}
